@@ -1,282 +1,199 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
-    <meta http-equiv="Content-Style-Type" content="text/css" />
-    <title>
-      The Project Gutenberg eBook of The Death from Orion, by W. J. Matthews.
-    </title>
-    <link rel="coverpage" href="images/cover.jpg" />
+*** START OF THE PROJECT GUTENBERG EBOOK 63854 ***
 
-    <style type="text/css">
+                         The Death From Orion
 
-body {
-    margin-left: 10%;
-    margin-right: 10%;
-}
+                           By W. J. MATTHEWS
 
-    h1,h2 {
-    text-align: center; /* all headings centered */
-    clear: both;
-}
+            Tiny suns set in rare metals, crystals of fire
+              that mocked Terra's diamonds and pearls as
+            lusterless pebbles and pale glass, the ancient
+                treasure left behind the same time-worn
+             trail of sudden blood and stiffening corpses!
 
-p {
-    margin-top: .51em;
-    text-align: justify;
-    margin-bottom: .49em;
-}
+           [Transcriber's Note: This etext was produced from
+                      Planet Stories Winter 1948.
+         Extensive research did not uncover any evidence that
+         the U.S. copyright on this publication was renewed.]
 
-hr {
-    width: 33%;
-    margin-top: 2em;
-    margin-bottom: 2em;
-    margin-left: 33.5%;
-    margin-right: 33.5%;
-    clear: both;
-}
 
-hr.chap {width: 65%; margin-left: 17.5%; margin-right: 17.5%;}
-hr.tb {width: 45%; margin-left: 27.5%; margin-right: 27.5%;}
-
-.center   {text-align: center;}
-
-.right   {text-align: right;}
-
-/* Images */
-.figcenter   {
-    margin: auto;
-    text-align: center;
-}
-
-.caption p
-{
-  text-align: center;
-  text-indent: 0;
-  margin: 0.25em 0;
-}
-
-div.titlepage {
-  text-align: center;
-  page-break-before: always;
-  page-break-after: always;
-}
-
-div.titlepage p {
-  text-align: center;
-  text-indent: 0em;
-  font-weight: bold;
-  line-height: 1.5;
-  margin-top: 3em;
-}
-
-.ph1 { text-align: center; text-indent: 0em; }
-.ph1 { font-size: medium; margin: .83em auto; }
-
-    </style>
-  </head>
-<body>
-<div>*** START OF THE PROJECT GUTENBERG EBOOK 63854 ***</div>
-
-<div class="titlepage">
-
-<h1>The Death From Orion</h1>
-
-<h2>By W. J. MATTHEWS</h2>
-
-<p>Tiny suns set in rare metals, crystals of fire<br />
-that mocked Terra's diamonds and pearls as<br />
-lusterless pebbles and pale glass, the ancient<br />
-treasure left behind the same time-worn<br />
-trail of sudden blood and stiffening corpses!</p>
-
-<p>[Transcriber's Note: This etext was produced from<br />
-Planet Stories Winter 1948.<br />
-Extensive research did not uncover any evidence that<br />
-the U.S. copyright on this publication was renewed.]</p>
-
-</div>
-
-<hr class="chap" />
-
-<p>For a long minute the big man did not speak, rocking gently on his
+For a long minute the big man did not speak, rocking gently on his
 heels, hands clasped behind his broad back. The dim glow of the atomics
 in the corridor cast shadowy bars of gold and sable across his cold
 face, picked glints of steel and silver from his heavy gunbelt and
 saffron uniform. The only sound was the gentle tinkle of leg-irons
 as the prisoner lounging on the cell-bench idly swung his crossed
 leg, returning the heavier man's reptilian stare with a detached,
-infuriating coolness.</p>
+infuriating coolness.
 
-<p>It moved him to break his silent regard. The thick voice rasped in the
-dim-lit cell.</p>
+It moved him to break his silent regard. The thick voice rasped in the
+dim-lit cell.
 
-<p>"You know why I am here, Kurland?"</p>
+"You know why I am here, Kurland?"
 
-<p>The black-bearded outlaw shrugged, a glitter of white teeth splintering
-his calm stare.</p>
+The black-bearded outlaw shrugged, a glitter of white teeth splintering
+his calm stare.
 
-<p>"Were you other than Gion, Marward of Jupiter, I should know. As it
-is, I do not."</p>
+"Were you other than Gion, Marward of Jupiter, I should know. As it
+is, I do not."
 
-<p>Gion's hard lips smiled briefly at the iron compliment.</p>
+Gion's hard lips smiled briefly at the iron compliment.
 
-<p>"I rate you higher than you think, Kurland. I should have come farther
-still to see you hanged at dawn."</p>
+"I rate you higher than you think, Kurland. I should have come farther
+still to see you hanged at dawn."
 
-<p>The outlaw shrugged. "I might say the same, had I had your luck."</p>
+The outlaw shrugged. "I might say the same, had I had your luck."
 
-<p>The big man nodded, his eyes never leaving Kurland. The sharp brows
+The big man nodded, his eyes never leaving Kurland. The sharp brows
 over his enormous eyes lay straight and commanding, and there were
 lines about his tight mouth Kurland had never seen. Slowly, softly,
-Gion went on, rocking easily on his booted heels.</p>
+Gion went on, rocking easily on his booted heels.
 
-<p>"Suppose, came dawn, you did not hang, Kurland?"</p>
+"Suppose, came dawn, you did not hang, Kurland?"
 
-<p>The swinging leg halted, the big body tensed in its chains. Then slowly
+The swinging leg halted, the big body tensed in its chains. Then slowly
 Kurland eased back against the cold stone wall, a thin, mocking smile
-playing across his face.</p>
+playing across his face.
 
-<p>"You should know me better, Gion. I am not for sale, even at such a
-price. Nor my comrades."</p>
+"You should know me better, Gion. I am not for sale, even at such a
+price. Nor my comrades."
 
-<p>Cold pride flashed in Marward's eyes. "I buy no man's loyalty," he
+Cold pride flashed in Marward's eyes. "I buy no man's loyalty," he
 retorted. "Were yours for sale, I should not be here, nor would you. I
-offer a supposition, nothing more."</p>
+offer a supposition, nothing more."
 
-<p>Kurland rose, a powerful, black-clad figure imposing even in torn
+Kurland rose, a powerful, black-clad figure imposing even in torn
 uniform and clinking chains. He stared fiercely at the heavy sub-ruler
 of the outer Jovian plains, the iron-souled tyrant who had broken and
 suborned Earthly sway until much of the giant planet lay supine and
-trembling before him.</p>
+trembling before him.
 
-<p>"You have not come to taunt me, nor play with suppositions, Marward.
-Why not be plain?"</p>
+"You have not come to taunt me, nor play with suppositions, Marward.
+Why not be plain?"
 
-<p>"I shall be plain enough," promised Gion, dropping a hand upon the
+"I shall be plain enough," promised Gion, dropping a hand upon the
 heavy butt of his silver-mounted glare-pistol. Kurland's teeth flashed
-in the gloom. There was magic still in his flaming name.</p>
+in the gloom. There was magic still in his flaming name.
 
-<p>"You know the Jewels of Orion?"</p>
+"You know the Jewels of Orion?"
 
-<p>"I have heard of them."</p>
+"I have heard of them."
 
-<p>"They have vanished."</p>
+"They have vanished."
 
-<p>The outlaw shrugged, half a laugh breaking through his beard. "My
-regrets, Marward. I had no hand in it."</p>
+The outlaw shrugged, half a laugh breaking through his beard. "My
+regrets, Marward. I had no hand in it."
 
-<p>Gion bared his teeth wolfishly. "I did."</p>
+Gion bared his teeth wolfishly. "I did."
 
-<p>Bland astonishment swept Kurland's face. Then, slowly, a grim smile
-thrust aside his wonder.</p>
+Bland astonishment swept Kurland's face. Then, slowly, a grim smile
+thrust aside his wonder.
 
-<p>"Forgive my start, Marward. You have stolen so much."</p>
+"Forgive my start, Marward. You have stolen so much."
 
-<p>Fiercely Gion brushed aside the cold insult. He stepped back, his face
+Fiercely Gion brushed aside the cold insult. He stepped back, his face
 in shadow. The prison cell was electric with his vibrant hate. "You
-will have it, will you, Kurland? I came to make an offer."</p>
+will have it, will you, Kurland? I came to make an offer."
 
-<p>"Go on," said the outlaw, immobile.</p>
+"Go on," said the outlaw, immobile.
 
-<p>"I am not loved, here on Jupiter," said Gion. "I usurp the authority of
+"I am not loved, here on Jupiter," said Gion. "I usurp the authority of
 greater men. I intrigue, I plot. I conquer and steal, if you will. It
 requires gold. A fortune." He paused, watching the outlaw. "An agent
 on Venus flashed me word that the Jewels of Orion, crown jewels of a
 vanished race on some forgotten planet beyond the stars, were to be
 shipped once more to Betelgoran. A hundred fortunes, Kurland. I gave
-orders and he shipped as passenger, with the consigned jewels."</p>
+orders and he shipped as passenger, with the consigned jewels."
 
-<p>"And then?" Kurland's eyes burned through the gloom.</p>
+"And then?" Kurland's eyes burned through the gloom.
 
-<p>"The <i>Plutonian</i> crashed somewhere ten million miles out in space,"
+"The _Plutonian_ crashed somewhere ten million miles out in space,"
 said Gion slowly. "My agent. He died with her, and with her people. But
 he sent the coordinates through even as she went down on some uncharted
 asteroid. I know where the hulk lies piled, an iron coffin for the
-Orion jewels."</p>
+Orion jewels."
 
-<p>Kurland's glare was deadly. "Make your offer, vulture."</p>
+Kurland's glare was deadly. "Make your offer, vulture."
 
-<p>"Go and bring me the jewels."</p>
+"Go and bring me the jewels."
 
-<hr class="tb" />
+       *       *       *       *       *
 
-<p>Kurland flung back his head, a sudden roar of laughter in his muscled
+Kurland flung back his head, a sudden roar of laughter in his muscled
 throat. The chains clashed on wrist and ankle as he flung derision in
-the other's paling face.</p>
+the other's paling face.
 
-<p>"You send a wolf on a jackal's errand, Marward! You think I would
+"You send a wolf on a jackal's errand, Marward! You think I would
 return, or venture one lean hungry mile on such a rat's voyage to help
 you on your way, you whom I have fought these many months, you who
 broke and exiled me, you who made me outlaw and today must hang me for
 it?" His scorn rasped bitingly in the prison cell, but Gion of Jupiter
 was not moved by the love or hate of men. He nodded to the tiny barred
-window.</p>
+window.
 
-<p>"Look from the window."</p>
+"Look from the window."
 
-<p>Kurland looked, seeing in the growing pearl of dawn the black and ugly
+Kurland looked, seeing in the growing pearl of dawn the black and ugly
 shapes athwart the sky were six gibbets stood ranged along the ramparts
-of Gion's northern fortress in the Montral foothills.</p>
+of Gion's northern fortress in the Montral foothills.
 
-<p>"You understand," nodded Gion, leaning against the door. "You will
+"You understand," nodded Gion, leaning against the door. "You will
 return, and with the jewels, or your five young companions will be
 swinging there to greet you when my men take you, as they took you once
-before, Kurland."</p>
+before, Kurland."
 
-<p>The outlaw turned, ice-veined, but Gion did not stir.</p>
+The outlaw turned, ice-veined, but Gion did not stir.
 
-<p>"I am a prisoner. Judged and doomed. No ship, no crew."</p>
+"I am a prisoner. Judged and doomed. No ship, no crew."
 
-<p>"Escapes have been arranged before."</p>
+"Escapes have been arranged before."
 
-<p>Kurland surveyed the big man curiously. "Why not go yourself on this
-golden errand, Marward?"</p>
+Kurland surveyed the big man curiously. "Why not go yourself on this
+golden errand, Marward?"
 
-<p>Gion shrugged. "Leaving my empire to the wolves? You know I dare not,
+Gion shrugged. "Leaving my empire to the wolves? You know I dare not,
 nor trust a lieutenant in my place. This is not a secret for friends or
-followers."</p>
+followers."
 
-<p>"I am no friend of yours. You dare trust me?"</p>
+"I am no friend of yours. You dare trust me?"
 
-<p>"Outlaw, fugitive, renegade ... need I fear you, Kurland?" smiled Gion
-coolly. "My word against yours."</p>
+"Outlaw, fugitive, renegade ... need I fear you, Kurland?" smiled Gion
+coolly. "My word against yours."
 
-<p>Kurland nodded slowly. "I see. But should I return with the jewels,
+Kurland nodded slowly. "I see. But should I return with the jewels,
 what assurance have I that my crew and I do not instantly decorate your
-gallows yonder?"</p>
+gallows yonder?"
 
-<p>"None," admitted Gion. "Reliance upon my word, I imagine, would
+"None," admitted Gion. "Reliance upon my word, I imagine, would
 give you scant comfort, but it is not to my interest to have even
 the slightest suspicion turned upon me while the jewels are in my
 possession. Compared to them, you and your arrogant little band are not
 worth the snapping of a broken twig. Bring me the Orions, Kurland, and
 your five slip the noose with a day's grace to be beyond my grasp. What
-more do you require?"</p>
+more do you require?"
 
-<p>"A ship and my crew to man her," replied Kurland, steadily. "I am your
-enemy forever, Gion."</p>
+"A ship and my crew to man her," replied Kurland, steadily. "I am your
+enemy forever, Gion."
 
-<p>Gion smiled, not without malice. "If you will have it so, Kurland. I am
-a bad enemy."</p>
+Gion smiled, not without malice. "If you will have it so, Kurland. I am
+a bad enemy."
 
-<p>"You used me once too often, Gion. I was an honest man when first my
+"You used me once too often, Gion. I was an honest man when first my
 ships came trading here, too stiff to crawl to your thieving crew, too
 callow to stomach your vicious thrust to power. Exiled, dishonored,
-branded, I bear a prouder title than yours, Marward. I am your enemy."</p>
+branded, I bear a prouder title than yours, Marward. I am your enemy."
 
-<p>"Serve me, then, and I promise you scant reward," Gion calmly agreed.
+"Serve me, then, and I promise you scant reward," Gion calmly agreed.
 "Your ship lies in the hangar, beyond the outer towers. Fueled. The
-chart is marked, your course is set. There are no guards."</p>
+chart is marked, your course is set. There are no guards."
 
-<p>Kurland suggestively clanked his chains.</p>
+Kurland suggestively clanked his chains.
 
-<p>Gion stepped into the corridor, his heavy face set and intent. Drawing
+Gion stepped into the corridor, his heavy face set and intent. Drawing
 his gun, he leveled a short tube with his left hand, focussing it on
 Kurland's chains through the doorway grill. As the outlaw pulled, links
-parted like melted cheese in the tinted purple glow.</p>
+parted like melted cheese in the tinted purple glow.
 
-<p>"There will be reprimands and stern punishments that you were allowed
+"There will be reprimands and stern punishments that you were allowed
 to conceal a dis-tube about your person," explained Gion, holding
 Kurland motionless with the threat of his leveled gun. "You comprehend.
 Your companions will be spared, that you be hanged together on your
@@ -285,29 +202,29 @@ you will place the jewels beneath the seat where you have lain, taking
 the key you will find there to release your men. Vanish, Kurland. Stay
 beyond my power. Expect no mercy, for justice shall be no more swift
 and certain to punish your crimes than I to still your tongue for once
-and all. You have your warning."</p>
+and all. You have your warning."
 
-<p>"You make yourself quite plain," agreed the outlaw, hand on hip. "We
+"You make yourself quite plain," agreed the outlaw, hand on hip. "We
 understand one another, Marward of Jupiter. You shall have your mangy
-jewels. Nothing else."</p>
+jewels. Nothing else."
 
-<p>Gion laughed contemptuously. "Have you seen them, wolf's-head? What
-else do I need?"</p>
+Gion laughed contemptuously. "Have you seen them, wolf's-head? What
+else do I need?"
 
-<p>"Friends, Marward."</p>
+"Friends, Marward."
 
-<p>"I have an enemy," Gion mocked, vanishing up the dim-lit corridor in a
+"I have an enemy," Gion mocked, vanishing up the dim-lit corridor in a
 blur of fading saffron. His throaty laugh came thickly back to Kurland
-as the clicking lock swung the heavy door gently wide.</p>
+as the clicking lock swung the heavy door gently wide.
 
-<p>Kurland was through it instantly, alert for a treacherous blast,
+Kurland was through it instantly, alert for a treacherous blast,
 darting into the shadows of the poor stone corridor, patched and
 ragged with broken plaster and creeping moss. Gion had vanished, but
 he did not dare venture anything in that direction, bearing as he did
 the lives of all his captive crew. Softly he passed down the empty
-corridors to the broad upper court overlooking the hillside ramparts.</p>
+corridors to the broad upper court overlooking the hillside ramparts.
 
-<p>His broad chest swelled with the fresh breath of freedom, strained
+His broad chest swelled with the fresh breath of freedom, strained
 though it might be through the rude beams of the new-made gallows he
 was cheating. The cords along his bearded jaw tightened. His hands
 found a tiny pill in a slot of his bread belt, pressed it swiftly
@@ -315,33 +232,32 @@ against the unguarded wood of the gallows. He melted into the shadows
 of the stairs as a wave of heat and acrid smoke billowed out, engulfing
 him and hiding him from view. The startled guards in the towers above
 saw the tall gibbets wreathed in sudden consuming flame even as they
-stared.</p>
+stared.
 
-<p>Rushing to the conflagration, none saw the shadowy figure dart through
+Rushing to the conflagration, none saw the shadowy figure dart through
 the postern far below and vanish into the rocks fringing the landing
 ground at the wall's base. A moment later, the deserted hangars erupted
 flame and boiling smoke, hurtling into the starry Jovian sky the slim
 black fighter manned once again by Eldon Kurland, outlaw. Gaping, they
-watched it vanish among the paling stars of dawn.</p>
+watched it vanish among the paling stars of dawn.
 
-<hr class="chap" />
 
-<p class="ph1">II</p>
+                                  II
 
-<p>Heywood, Gion's jackal, moped sullenly about the rocks of the jagged
+Heywood, Gion's jackal, moped sullenly about the rocks of the jagged
 little asteroid, scowling through his vitrine helmet at the tiny figure
 moving slowly along the crater floor near the distant bones of the
-wrecked <i>Plutonian</i>. The intolerable glare of the naked sun, hidden
+wrecked _Plutonian_. The intolerable glare of the naked sun, hidden
 by the rock's toothed horizon, yet thrust flaming whorls of gold and
 scarlet above the mountains to hideously outline the ragged ribs of the
 vessel he had diverted from its course to its death on this uncharted
-worldlet.</p>
+worldlet.
 
-<p>A scowl he kept hidden from his companion darkened his handsome, waxen
+A scowl he kept hidden from his companion darkened his handsome, waxen
 face, and for the hundredth time he muttered imprecations upon his
-ill-fortune in the moment of triumph. He had not counted on the girl.</p>
+ill-fortune in the moment of triumph. He had not counted on the girl.
 
-<p>Allen Heywood depended on nothing save himself, for which his master
+Allen Heywood depended on nothing save himself, for which his master
 Gion valued him more highly than any other tool and trusted him not at
 all. Surreptitiously relaying to the Marward the coordinates of the
 space-ship on which he had slipped as passenger, Heywood had coldly
@@ -352,16 +268,16 @@ of his own, he had simply stepped out an emergency lock in a space-suit
 a moment before the ship struck, allowing himself to slowly drift with
 his own momentum and the asteroid's faint gravitational pull. He had
 landed a mile from the ship perhaps an hour after it crashed, only to
-find himself confronted by another suited figure, the woman Francinet.</p>
+find himself confronted by another suited figure, the woman Francinet.
 
-<p>Shaken by the encounter, he realized she had no suspicion of the part
+Shaken by the encounter, he realized she had no suspicion of the part
 he had played, or that the crash had been less than accidental. She
 had herself been saved by the merest freak, having been clad in a
 space-suit for a photograph-minded acquaintance. When the ship split,
 she had been shot upward through a rent in the hull, drifting slowly
-down as had he. They were hopelessly marooned.</p>
+down as had he. They were hopelessly marooned.
 
-<p>The ship was ruined, if not completely destroyed. Heywood pushed aside
+The ship was ruined, if not completely destroyed. Heywood pushed aside
 the horrible steel-hard blobs of red which had been human beings with
 no apparent qualms, nor troubled himself that it had been he who had
 slain them all as surely as with gun or knife. With the bows crushed
@@ -370,199 +286,199 @@ wide by its own thermoblast bombs, nothing was left them but a length
 or two of warped and twisted main cabin hardly capable of retaining the
 Earth atmosphere still flowing through the tiny purifier engines he had
 seen to preserving. Cleaning out the unrecognizable dead, he rigged up
-a rough shelter for them. They had occupied it by now for over a week.</p>
+a rough shelter for them. They had occupied it by now for over a week.
 
-<p>He kicked again at a rock, watching it spiral slowly up and over a
+He kicked again at a rock, watching it spiral slowly up and over a
 crevasse in slow-motion. The jewels were still intact, hidden in
 the ship's safe. He had not risked her discovering him tampering
 with either, nor the safer course of destroying her as he had her
 companions. There was no assurance that another ship than Gion's
-rescuing craft might not discover them first.</p>
+rescuing craft might not discover them first.
 
-<p>That Gion would send a ship for him he believed with implicit faith,
+That Gion would send a ship for him he believed with implicit faith,
 tempered by the knowledge that it would be the loot and not the thief
 that the powerful Marward coveted. He had no illusions concerning Gion,
 and so had survived. Thus, as he glanced skyward to see a tiny star
 moving perceptibly across the blazing night of interspatial glory,
 Allen Heywood flattened himself behind a huge rock quite as promptly as
-from the devil himself.</p>
+from the devil himself.
 
-<p>A blaster slid into his hand. The green eyes were intent.</p>
+A blaster slid into his hand. The green eyes were intent.
 
-<p>The little ship was coming down.</p>
+The little ship was coming down.
 
-<hr class="tb" />
+       *       *       *       *       *
 
-<p>The long blue glare paled across the unwinking stars and a red column
+The long blue glare paled across the unwinking stars and a red column
 of fire poured viciously from Kurland's ship, whitening to a rigid
 arc lancing into the broken rocks below. Eyes intent, the outlaw bent
 forward over his keys, searching the ragged terrain as he braked his
 easy dive. Then his firm lips thinned, cruelly hard in the thick beard
 masking his copper face. The broken ribs of the lost space-ship thrust
-up against the sun, half-hidden in the shadows of a stoney ledge.</p>
+up against the sun, half-hidden in the shadows of a stoney ledge.
 
-<p>Kurland shut off his drive, thrusting in breakers and snapping down his
+Kurland shut off his drive, thrusting in breakers and snapping down his
 forward beams. The eight-man ship he had made known and feared through
 all the distant Jovian system drifted easily through the empty sky,
 feeling its way on walking tractor beams. The star-shine glinted on the
 black lines and heavy armament, hesitating to further lighten the dark
-menace of the craft.</p>
+menace of the craft.
 
-<p>A green beam lanced into a nearby crag, splitting it from top to
+A green beam lanced into a nearby crag, splitting it from top to
 bottom, and toppling it in soundless ruin across the crater floor.
-Nothing stirred about the silent wreck.</p>
+Nothing stirred about the silent wreck.
 
-<p>Lightly the ship touched the crater floor, rocking gently on its beams.
+Lightly the ship touched the crater floor, rocking gently on its beams.
 A broad figure in black swung down and moved swiftly across the rock
-toward the broken hulk of the <i>Plutonian</i>. Heywood softly drifted into
-the shadows, floating easily from hollow to hollow, following.</p>
+toward the broken hulk of the _Plutonian_. Heywood softly drifted into
+the shadows, floating easily from hollow to hollow, following.
 
-<p>Kurland stood silent, looking up at the gigantic ruin, majestic even in
+Kurland stood silent, looking up at the gigantic ruin, majestic even in
 its awful desolation, and the look upon his face was not good to see.
 There were no deeper hells than those for wreckers, no fate too grim
 for one who callously snapped the bright, thin thread of life reaching
 out from Earth to all the Solar planets and their hundred circling
 satellites. The Marward of Jupiter would buy an empire with this
-tangled pile of riven steel. He should find the bargain dear.</p>
+tangled pile of riven steel. He should find the bargain dear.
 
-<p>There was no need to seek airlocks in the <i>Plutonian's</i> side. Three
+There was no need to seek airlocks in the _Plutonian's_ side. Three
 were visible, ripped and gaping, and there were a score of torn holes
 twenty feet and more in width broken through the shell where the vessel
 had plowed her way into the rocks. Clothes instruments, furniture,
 books, and a hundred intimate possessions lay crumpled to view in the
 gutted cabins or scattered wide across the shining plain. For a moment
 Kurland looked at a headless doll, then moved forward, his face a
-deadly mask.</p>
+deadly mask.
 
-<p>Swiftly he climbed, mounting the broken stone and twisted metal that
+Swiftly he climbed, mounting the broken stone and twisted metal that
 led him to a greater gash leading into an inner saloon. He forced his
-way through the debris, then straightened, looking about him curiously.</p>
+way through the debris, then straightened, looking about him curiously.
 
-<p>Furniture and drapes lay crushed, torn, heaped against the broken
+Furniture and drapes lay crushed, torn, heaped against the broken
 forward bulkheads, but nowhere could he see the dead who must have
 died here by the tens and by the score. There was no blood upon the
 walls, for blood exposed to the instant void of interstellar space
 crystallized in the very bodies of the injured, but in the debris at
 the foot of the muralled bulkhead many tiny marbles of dreadful scarlet
-rolled and tinkled silently as he searched.</p>
+rolled and tinkled silently as he searched.
 
-<p>He moved forward, passing through the shattered bulkheads where open
+He moved forward, passing through the shattered bulkheads where open
 swinging doors gave acute evidence of the unexpectedness of the
 catastrophe which had overwhelmed the ship. Ruin and destruction were
 everywhere, but nowhere a trace of the bodies he knew had exploded into
 scarlet dust as the biting death of space lanced its deadly vacuum into
 the rending vessel. There could be only one answer, and it brought his
-gun into his hand as he moved warily through the corridors.</p>
+gun into his hand as he moved warily through the corridors.
 
-<p>His search ended in the open, metal-sprayed bowl which had been the
+His search ended in the open, metal-sprayed bowl which had been the
 forward pilot cabin, for here, piled hideously in red tangles, the
 rigid blots whose life-blood had rolled beneath his feet in bright
 pellets as he walked lay sprawled in horrible disfigurement. There were
-no longer anything at all. Simply <i>color</i>, encompassed in torn and
-broken clothing.</p>
+no longer anything at all. Simply _color_, encompassed in torn and
+broken clothing.
 
-<p>Whiter than the fleshless bone displayed before him, Kurland thrust
+Whiter than the fleshless bone displayed before him, Kurland thrust
 to the swinging door, welding it shut in one impulsive burst of his
 blaster. No man should see what lay beyond. Shaking with a terrible
 anger, Kurland strode furiously back the broken ship, gun in hand, and
 flung his curses on ahead. He opened nothing, but shot doors and panels
 from their hinges as he advanced, eyes glaring for the faintest sign of
 movement. Only the man who had planned and executed this horror could
-have survived it.</p>
+have survived it.
 
-<hr class="tb" />
+       *       *       *       *       *
 
-<p>Midway in his stride the outlaw halted, gun lifted. The pilot light
+Midway in his stride the outlaw halted, gun lifted. The pilot light
 over the central chambers glowed softly. There was atmosphere within.
 Kurland snarled, closed his gloved hand on the twisted lever. He jerked
 and the battered door swung open, revealing a rough airlock improvised
 from the usual intercommunicating chamber. He darted in, snapping the
 door behind him. Air sighed into the chamber as he drew another rude
-lever down from the box nailed to the bulkhead.</p>
+lever down from the box nailed to the bulkhead.
 
-<p>Removing his vitrine helmet, Kurland holstered his gun and thrust open
+Removing his vitrine helmet, Kurland holstered his gun and thrust open
 the inner lock. The air was clean and fresh, Earth-crisp. The room
 was battered, but not structurally damaged, and the furnishings were
 neatly in place. There were signs that other chambers had been looted
 to furnish this one, and Kurland smiled mirthlessly. He silently moved
-across the thick blue rug.</p>
+across the thick blue rug.
 
-<p>The room beyond was a sleeping cabin, with male attire in the slotted
+The room beyond was a sleeping cabin, with male attire in the slotted
 racks. The stamp of occupancy lay everywhere in the worn, neat articles
 stamped with a golden H. The other room of the suite had been fitted
 with heat tubes for warmth and cooking, and were piled high with
-salvaged foodstuffs.</p>
+salvaged foodstuffs.
 
-<p>Continuing, Kurland found a broken passage beyond this kitchen, leading
+Continuing, Kurland found a broken passage beyond this kitchen, leading
 deeper into the shop's waist, but cut off from the first suite by
 locked doors. The outlaw grinned wickedly and, reversing the charge
 silently burned the doors from their slides. There was no sound, no
 vibration as he laid them against the wall. Gion had not hunted him for
-nothing.</p>
+nothing.
 
-<p>The room beyond was deep in rugs, the panelled walls well-hung with
+The room beyond was deep in rugs, the panelled walls well-hung with
 costly paintings. A recorder was singing beyond a brocaded drape, and
 Kurland could hear footsteps moving lightly across the padded floor.
 With one swift bound he was across the anteroom, ripping the drapery
 from its flimsy hangings, and stood upon the threshold of the inner
 room, a black, terrible figure looming in the warped doorway like the
 angel of Death. His voice rang softly through the sudden frozen silence
-as he faced the survivor.</p>
+as he faced the survivor.
 
-<p>"My apologies. I underestimated Gion."</p>
+"My apologies. I underestimated Gion."
 
-<p>Irene Francinet, whirling in anger at an intrusion she attributed
+Irene Francinet, whirling in anger at an intrusion she attributed
 to the hitherto circumspect Heywood, froze at the sight confronting
 her, a huge black-bearded stranger with the bronze face of a Japanese
 devil-mask. The gloved hands were gargoyle claws, hovering over the
 blasters slung at the intruder's steel-black hips, the blazing eyes
-lances piercing her to the heart. This was ... Death.</p>
+lances piercing her to the heart. This was ... Death.
 
-<p>She had been preparing for a sun-bath under a lamp built into the wall
+She had been preparing for a sun-bath under a lamp built into the wall
 over the bed. The hand clutching her garments across her breast sank
 for a moment, evoking a mirthless grin from the giant that froze her
-already icy blood.</p>
+already icy blood.
 
-<p>"You needn't trouble," he said, his voice so low she barely heard him.
-"It won't work."</p>
+"You needn't trouble," he said, his voice so low she barely heard him.
+"It won't work."
 
-<p>She drew herself up, dark head high, and tried to still the tremor of
+She drew herself up, dark head high, and tried to still the tremor of
 her knees. There was good blood in Irene Francinet, and long years of
-iron discipline.</p>
+iron discipline.
 
-<p>"You are intruding," she said, and her voice was steadier than she
-hoped. "Who are you? Where is your ship?"</p>
+"You are intruding," she said, and her voice was steadier than she
+hoped. "Who are you? Where is your ship?"
 
-<p>His courtesy was insulting as he bowed, his eyes never leaving hers.
-"Your pardon. I am Eldon Kurland, late of North Jupiter. <i>You</i> need no
-name."</p>
+His courtesy was insulting as he bowed, his eyes never leaving hers.
+"Your pardon. I am Eldon Kurland, late of North Jupiter. _You_ need no
+name."
 
-<p>"I am Irene Francinet, Recorder, of Earth." Her voice was angry,
-uneven. "I do not understand you."</p>
+"I am Irene Francinet, Recorder, of Earth." Her voice was angry,
+uneven. "I do not understand you."
 
-<p>"Let it suffice that I understand you," he replied, his tone acid with
+"Let it suffice that I understand you," he replied, his tone acid with
 ruthless disdain. He moved slowly forward, his eyes chill diamonds
 under the softly glowing atomics, and slowly she retreated, no longer
 able to conceal her fear. His hands never left the black handles of his
-guns.</p>
+guns.
 
-<p>"I knew the Marward's arm is long," he went on, grimly. "None better
+"I knew the Marward's arm is long," he went on, grimly. "None better
 than I. I had not thought it long enough to drag the proud name of
-Recorder in this bloody mud."</p>
+Recorder in this bloody mud."
 
-<p>She halted, stamping her foot on the rug. "What is this talk? Marward
+She halted, stamping her foot on the rug. "What is this talk? Marward
 of where? Why do you fling him in my face like ... like refuse?" Bright
-color stained her pale cheeks, and he eyed her curiously.</p>
+color stained her pale cheeks, and he eyed her curiously.
 
-<p>"You do that well enough, Francinet." He surveyed her from head to
+"You do that well enough, Francinet." He surveyed her from head to
 toe, savoring the midnight hair, the eyes flaming bluely into his, the
 straight nose and the strong red mouth. "Disclaim Gion of Jupiter if
 you will. He's no friend of mine. But save your anger for better men.
-I've seen your work."</p>
+I've seen your work."
 
-<p>Her face was blank, and he answered her brutally.</p>
+Her face was blank, and he answered her brutally.
 
-<p>"I stand within it. It stinks in the sun. I walked in blood to fling
+"I stand within it. It stinks in the sun. I walked in blood to fling
 it in your face, you treacherous snake! I'll see the color of Gion's,
 yes, and yours, before either of you hears the last of this!" he blazed
 in a sudden whirl of recurring anger. "You'll play at words with me!
@@ -571,120 +487,120 @@ her tubes and sent her crashing here with all her helpless people." He
 flung a hand back at the door by which he had entered. "Walk out there,
 Recorder, and feel their blood roll beneath your feet! You who are so
 free with other's lives to win the treacherous praise Gion lulls you
-fools asleep with while he robs and slays!"</p>
+fools asleep with while he robs and slays!"
 
-<p>"What are you saying?" she whispered, lips stiff in her blanched face.
-"You think <i>I</i> wrecked the <i>Plutonian</i>? You think I killed those
-people?"</p>
+"What are you saying?" she whispered, lips stiff in her blanched face.
+"You think _I_ wrecked the _Plutonian_? You think I killed those
+people?"
 
-<p>"You live," was his brutal rejoinder.</p>
+"You live," was his brutal rejoinder.
 
-<p>"But why? <i>Why?</i>" she wailed, abandoning her firm dignity as he loomed
+"But why? _Why?_" she wailed, abandoning her firm dignity as he loomed
 over her, black with anger. "Why should I do so horrible a thing? What
-reason could I have?"</p>
+reason could I have?"
 
-<p>"My reason," he snarled. "Because you must, as I came here because I
+"My reason," he snarled. "Because you must, as I came here because I
 must. I to save my comrades from the noose, you for Gion's gold. Well,
-you've earned it, and triply over, woman. Where are the jewels?"</p>
+you've earned it, and triply over, woman. Where are the jewels?"
 
-<p>"I have no jewels," she faltered, her hand indicating her few personal
+"I have no jewels," she faltered, her hand indicating her few personal
 belongings salvaged from the wreckage of her cabin. He brushed them
-aside, turned a jeering grin on her.</p>
+aside, turned a jeering grin on her.
 
-<p>"You haven't opened the safe, then? By Throaze, but Gion knows his
-tools! Where is it?"</p>
+"You haven't opened the safe, then? By Throaze, but Gion knows his
+tools! Where is it?"
 
-<hr class="tb" />
+       *       *       *       *       *
 
-<p>She stared at him. "Back there. In the purser's office, I suppose." Her
-voice was frankly trembling. "I haven't touched it."</p>
+She stared at him. "Back there. In the purser's office, I suppose." Her
+voice was frankly trembling. "I haven't touched it."
 
-<p>"Clever. I might not have been the first." He jerked his head aft.
-"Ahead of me. March."</p>
+"Clever. I might not have been the first." He jerked his head aft.
+"Ahead of me. March."
 
-<p>"I'm not ... dressed."</p>
+"I'm not ... dressed."
 
-<p>He tossed her a blanket. "Use that. Show me that safe, <i>Recorder</i>." Her
+He tossed her a blanket. "Use that. Show me that safe, _Recorder_." Her
 proud title, in his bitter lips, was an epithet, and she bristled. But
-she obeyed.</p>
+she obeyed.
 
-<p>She moved into the dimly lit corridor beyond her little suite, feeling
+She moved into the dimly lit corridor beyond her little suite, feeling
 her way along the warped and battered passage. They had not attempted
 to utilize this part of the vessel, although it lay within their
 atmospheric seals, and she had rough going. Kurland moved close behind
 her, hand on his gun, but she made no move to oppose him. Her one hope
 of safety lay in acceding to this madman's demands, trusting to her
 erstwhile companion, Heywood. He must be somewhere about. And Kurland
-did not seem to know of his existence.</p>
+did not seem to know of his existence.
 
-<p>The office was a broken shambles, records and papers heaped against the
+The office was a broken shambles, records and papers heaped against the
 forward bulkhead. The massive safes had been torn bodily from the wall
 and lay upended in the litter. Kurland strode swiftly to the smallest,
 motioning her to immobility with his gun. Supplied with Gion by the
 proper combinations, he spun the six dials expertly and the three doors
-fell open. He took out a small leaden box, then four more.</p>
+fell open. He took out a small leaden box, then four more.
 
-<p>Prismatic fire blazed roof-high as he flung back the cover of one,
+Prismatic fire blazed roof-high as he flung back the cover of one,
 jetting iridescently from a tumbled mass of primitive goldwork
 encrusted with the unbelievable gems of Orion. He lifted a heavy golden
 torque, studded with blazing gouts of crimson flame and slung on an
 inch-thick rope of giant Venusian pearls worth each the lives of twenty
 men. A yellow diamond Chalcidite rolled across the scarred steel of the
 open door and came to rest, winking like an evil eye in the dim light
-sifting down the corridor behind Kurland.</p>
+sifting down the corridor behind Kurland.
 
-<p>His voice was soft, terrible in its hatred as he looked at her, blanket
+His voice was soft, terrible in its hatred as he looked at her, blanket
 clutched frozen across her bosom. His eyes blazed as balefully as the
-huge jewel winking before him.</p>
+huge jewel winking before him.
 
-<p>"Will you lie now, Recorder? These are the Jewels of Orion!"</p>
+"Will you lie now, Recorder? These are the Jewels of Orion!"
 
-<p>She did not answer, less for the contemptuous accusation in his voice
+She did not answer, less for the contemptuous accusation in his voice
 than the more dreadful thought her trained mind thrust at her as
-insistently. If the <i>Plutonian</i> had been sabotaged and wrecked for
+insistently. If the _Plutonian_ had been sabotaged and wrecked for
 such world-loot, as his sure knowledge, his very presence indicated,
 then his first assumption must inevitably be true. The survivor he
 considered her must indeed be the hellish wrecker. And she was not the
-only survivor.</p>
+only survivor.
 
-<p>Her eyes were enormous. A mound of living fire grew upon the dusty
+Her eyes were enormous. A mound of living fire grew upon the dusty
 steel as he piled up the blazing rings and brooches of the long-dead
 Orion kings. He tossed down a circlet of hammered gold, wreathed for
 the brows of some ancient queen, and the thirty pendant gems tinkled
 musically in the silence. Each could have bought the souls of an army,
 round, glinting stars of purest emerald green deep-sunk with tiny suns
 of icy diamond lustre. Kurland paused in his magical task, looking
-across at her.</p>
+across at her.
 
-<p>"Are they worth the blood we walked upon to reach them, Recorder?" he
-asked, quietly.</p>
+"Are they worth the blood we walked upon to reach them, Recorder?" he
+asked, quietly.
 
-<p>"I ... I didn't know," she faltered, meeting his gaze with growing
-firmness.</p>
+"I ... I didn't know," she faltered, meeting his gaze with growing
+firmness.
 
-<p>"Men have died before over these bright toys," he shrugged, opening
+"Men have died before over these bright toys," he shrugged, opening
 another box and pouring it in a blazing cascade over the first heap of
-white fire. "Men will die again. And among them, Gion."</p>
+white fire. "Men will die again. And among them, Gion."
 
-<p>"The Marward of Jupiter?" she whispered. "He knows? He sent you here,
-knowing this?"</p>
+"The Marward of Jupiter?" she whispered. "He knows? He sent you here,
+knowing this?"
 
-<p>"Your message reached him. The Marward is swift to serve his servants.
-Particularly those ... bearing gifts."</p>
+"Your message reached him. The Marward is swift to serve his servants.
+Particularly those ... bearing gifts."
 
-<p>"You betray yourself," she flashed, pointing at the gems. "Gion is
-evil, but would he trust any messenger with <i>those</i>?"</p>
+"You betray yourself," she flashed, pointing at the gems. "Gion is
+evil, but would he trust any messenger with _those_?"
 
-<p>Kurland looked quietly at her. "The Marward holds me in tighter bonds
+Kurland looked quietly at her. "The Marward holds me in tighter bonds
 than you think, Recorder. If I fail him, five of my friends hang.
-Skyhigh."</p>
+Skyhigh."
 
-<p>She looked searchingly at him. "Who are you? You rate your friends very
-high, Black-beard."</p>
+She looked searchingly at him. "Who are you? You rate your friends very
+high, Black-beard."
 
-<hr class="tb" />
+       *       *       *       *       *
 
-<p>Kurland smiled, a hard grin with no mirth in it. "I am Eldon Kurland,
+Kurland smiled, a hard grin with no mirth in it. "I am Eldon Kurland,
 as I told you. Outlaw. Gion made. Were you a true Recorder, you should
 know of me, and know I hold my men dearer than this trumpery glass from
 beyond the Milky Way." His gloved hand struck the gems contemptuously,
@@ -694,95 +610,87 @@ Kurland swayed, knees buckling, and sank with a clash of heavy armor
 to sprawl across the fortune he had struck aside. Behind him a bright,
 feral countenance smiled wolfishly and the slight figure which had
 slipped silently into the room from the passage straightened up
-triumphantly, gun in hand. Allen Heywood smiled upon her benignly.</p>
+triumphantly, gun in hand. Allen Heywood smiled upon her benignly.
 
-<hr class="chap" />
+[Illustration: _The outlaw stiffened, then his knees buckled._]
 
-<div class="figcenter">
-  <img src="images/illus.jpg" alt=""/>
-  <div class="caption">
-    <p> <i>The outlaw stiffened, then his knees buckled.</i></p>
-  </div>
-</div>
 
-<hr class="chap" />
+                                  III
 
-<p class="ph1">III</p>
+Kurland opened his eyes dizzily, then shut them again. The thick voice
+of Gion purred through the spinning darkness.
 
-<p>Kurland opened his eyes dizzily, then shut them again. The thick voice
-of Gion purred through the spinning darkness.</p>
+"You might as well, Kurland. It's real."
 
-<p>"You might as well, Kurland. It's real."</p>
-
-<p>He opened them again, fixing his unsteady regard upon the heavy,
+He opened them again, fixing his unsteady regard upon the heavy,
 impassive countenance of the Jovian Marward. Gion sat across the
 table, his hands folded upon the polished surface. The leaden boxes
 were stacked neatly beside his arm. A thinly wavering smile touched
-Kurland's lips as he glanced back at Gion.</p>
+Kurland's lips as he glanced back at Gion.
 
-<p>"Your arm is longer than I thought, Gion."</p>
+"Your arm is longer than I thought, Gion."
 
-<p>"You had your warning," shrugged the Marward.</p>
+"You had your warning," shrugged the Marward.
 
-<p>"How did she do it?"</p>
+"How did she do it?"
 
-<p>Gion smiled, a gross caricature of mirth. "It would be amusing to let
+Gion smiled, a gross caricature of mirth. "It would be amusing to let
 you go in that misapprehension, I suppose. Perhaps profitable. But
 you've earned the right to know. The girl wasn't my agent. So much the
 worse for her. While you were reviling her, the man who wrecked the
-<i>Plutonian</i> walked up behind you. Heywood isn't one to take chances, as
-your head probably indicates."</p>
+_Plutonian_ walked up behind you. Heywood isn't one to take chances, as
+your head probably indicates."
 
-<p>"Heywood?"</p>
+"Heywood?"
 
-<p>Gion waved a casual hand at a slight, elegant figure seated at his
+Gion waved a casual hand at a slight, elegant figure seated at his
 right, and the evil little jackal permitted himself a tight-lipped grin
-at Kurland, the chained lion. The outlaw studied him without affection.</p>
+at Kurland, the chained lion. The outlaw studied him without affection.
 
-<p>"And what do you have on <i>him</i>?"</p>
+"And what do you have on _him_?"
 
-<p>"Nothing in particular," shrugged Gion. "Heywood is devoted to my
+"Nothing in particular," shrugged Gion. "Heywood is devoted to my
 interests, seeing they're his own. I have no more loyal follower, no
-better friend."</p>
+better friend."
 
-<p>Allen Heywood fidgeted under the unusual expansiveness of his patron,
+Allen Heywood fidgeted under the unusual expansiveness of his patron,
 allowing a tinge of color to stain his cold pallor. The look he gave
 the Marward was an amazing blend of adulation and open suspicion, and
 Kurland smiled thinly. He did not anticipate leaving this little rocky
 underground room alive, and had no objection to sowing dissention as a
-parting legacy. His dark eyes sought the Marward's.</p>
+parting legacy. His dark eyes sought the Marward's.
 
-<p>"Our gentlemen's agreement, I take it, is off?"</p>
+"Our gentlemen's agreement, I take it, is off?"
 
-<p>Gion nodded indifferently. "But naturally. It was not you who fetched
+Gion nodded indifferently. "But naturally. It was not you who fetched
 me the Orion jewels, Kurland. Your intentions may have been honorable,
 and in all honesty I admit so much, but it was Allen Heywood who
-brought me the stones. The reward I meant for you shall be his."</p>
+brought me the stones. The reward I meant for you shall be his."
 
-<p>Kurland glanced at Heywood with some pleasure. The little man might not
-care for that.</p>
+Kurland glanced at Heywood with some pleasure. The little man might not
+care for that.
 
-<p>The burly Marward rose, pulling his gun. The outlaw noted that the
+The burly Marward rose, pulling his gun. The outlaw noted that the
 alert Heywood was on his feet as promptly, his own gun opening in
 his hand. But Gion meditated nothing at the moment, apparently, save
 ridding himself of evidence even one of his eminence could not brook
-revealing. He motioned Kurland to rise.</p>
+revealing. He motioned Kurland to rise.
 
-<p>The outlaw got up, noting his feet were hobbled by a short rope. His
+The outlaw got up, noting his feet were hobbled by a short rope. His
 wrists were lashed behind his back, his holster empty. From the aching
 dizziness in his limbs and head he realized that Heywood must have
 drugged him after striking him down back upon the asteroid where the
-<i>Plutonian</i> had crashed, taking no chances whatsoever on the long
+_Plutonian_ had crashed, taking no chances whatsoever on the long
 voyage back to Jupiter in Kurland's ship, bearing captive and loot. The
-feral little man slipped behind him, prodding him with his blaster.</p>
+feral little man slipped behind him, prodding him with his blaster.
 
-<p>"Move, wolf's-head." He shuffled silently after Gion, moving ahead down
+"Move, wolf's-head." He shuffled silently after Gion, moving ahead down
 rocky, dim-lit corridors. There was no sound but the rasp of their
-boots and the growing rumble of underground water not far ahead.</p>
+boots and the growing rumble of underground water not far ahead.
 
-<hr class="tb" />
+       *       *       *       *       *
 
-<p>The massive stronghold of Montalven where Gion squatted, playing at
+The massive stronghold of Montalven where Gion squatted, playing at
 power behind the scenes, was far more fortress than palace, relic of
 an earlier day when Earthmen maintained their sway by the strength of
 their ships and spreading armies rather than by the gentler rule of
@@ -793,57 +701,57 @@ of the northern province legitimately his own until all the Earth
 colonies and many of the native kingdoms trembled at his slightest
 word. Kurland was being afforded a further glimpse of the reason. He
 had been outlawed and hunted across Jupiter for his defiance of that
-lawless sway. He was to die for it now.</p>
+lawless sway. He was to die for it now.
 
-<p>They came out upon a rough stone platform where a swift underground
+They came out upon a rough stone platform where a swift underground
 river glanced roughly by in rude channels, spitting foam and spray
 as it dashed against the stone. A flimsily built raft made from an
 old door and several planks tied together with rope was moored at the
 quay's edge, a foot or so below the floor level, and lying bound upon
 it, gagged, lay the girl Kurland had found in the wreckage of the
-<i>Plutonian</i>, Irene Francinet. Her white dress was already soaked as the
-wretched craft bobbed and swayed in the swift current.</p>
+_Plutonian_, Irene Francinet. Her white dress was already soaked as the
+wretched craft bobbed and swayed in the swift current.
 
-<p>Kurland halted, swung angrily on Gion. "What is this, Marward? You
-disclaimed the woman."</p>
+Kurland halted, swung angrily on Gion. "What is this, Marward? You
+disclaimed the woman."
 
-<p>"So I did," placidly agreed Gion. "I told you Allen was thorough. He
-brought back <i>everything</i>."</p>
+"So I did," placidly agreed Gion. "I told you Allen was thorough. He
+brought back _everything_."
 
-<p>"And ... we know too much?"</p>
+"And ... we know too much?"
 
-<p>"Too much to hang," replied Gion, frankly. "Not with your friends.
-You're going down the river. It doesn't come out."</p>
+"Too much to hang," replied Gion, frankly. "Not with your friends.
+You're going down the river. It doesn't come out."
 
-<p>"She's a woman, Gion. What's her word against yours?"</p>
+"She's a woman, Gion. What's her word against yours?"
 
-<p>"She's a Recorder, a trained Government official of the highest rank.
+"She's a Recorder, a trained Government official of the highest rank.
 Their word against kings and princes, my friend. I don't take chances,
-my friend. Step down. Allen, see that he does."</p>
+my friend. Step down. Allen, see that he does."
 
-<p>Under the sudden pressure of Heywood's weapon, there was nothing for
+Under the sudden pressure of Heywood's weapon, there was nothing for
 Kurland to do but obey. He stepped down upon the raft, tipping it
 dangerously and soaking the Francinet woman to the hips. He squatted
-down, obediently.</p>
+down, obediently.
 
-<p>Gion nodded. "Tie him to those hinges, Allen. They'll drift for miles
+Gion nodded. "Tie him to those hinges, Allen. They'll drift for miles
 before the roof slopes down and sinks the raft." There was a sudden
 gleam in his bulging eyes as the lighter man swung down upon the raft,
-but Kurland said nothing. He owed the wrecker-vulture nothing.</p>
+but Kurland said nothing. He owed the wrecker-vulture nothing.
 
-<p>Roped to the worn hinges, he sat quietly watching the bulky Jovian
-ruler and his dapper lackey. Gion smiled.</p>
+Roped to the worn hinges, he sat quietly watching the bulky Jovian
+ruler and his dapper lackey. Gion smiled.
 
-<p>"Tight enough, Allen. Get back and cast them off." And he gave Heywood
+"Tight enough, Allen. Get back and cast them off." And he gave Heywood
 his hand to assist him. Dazzled by the condescension of his noble
 confederate, Heywood failed to notice that it was the left hand of
 the Marward he grasped. The powerful muscles contracted to heave him
 to safety on the rough-hewn quay, and, as he came, the right arm of
 the Marward swung abruptly to drive a heavy dagger to the hilt in the
 startled little fiend's unprotected throat. Allen Heywood had for once
-neglected his caution.</p>
+neglected his caution.
 
-<p>Contemptuously, Gion released the suddenly slack fingers of his devoted
+Contemptuously, Gion released the suddenly slack fingers of his devoted
 henchman, the dying man falling heavily back upon the raft, choking in
 his bubbling blood. He rolled to one side, staining Irene's white dress
 a horrid crimson as he clutched her body, his eyes a glaring horror as
@@ -852,43 +760,42 @@ limply. His head dropped, his clawed hands relaxed, and he sagged into
 the water. A booted leg, caught between two broken planks, held him
 precariously, half-submerged. The green waters rushing past darkened
 thinly as he fled along the death-trail upon which he had been so
-cheerfully embarking Kurland and the hapless Irene Francinet.</p>
+cheerfully embarking Kurland and the hapless Irene Francinet.
 
-<p>Kurland looked up stonily at the Marward.</p>
+Kurland looked up stonily at the Marward.
 
-<p>"It doesn't pay to work for you, does it, Gion?" he asked, quietly.</p>
+"It doesn't pay to work for you, does it, Gion?" he asked, quietly.
 
-<p>"I promised him your reward," Gion smiled, bending to cut the rope
-holding the raft. "You may share it with him. Bon voyage, my friends."</p>
+"I promised him your reward," Gion smiled, bending to cut the rope
+holding the raft. "You may share it with him. Bon voyage, my friends."
 
-<p>The rope parted, the flimsy contraption darting away into the current.
+The rope parted, the flimsy contraption darting away into the current.
 Their last view of the Marward was of a jocular farewell waved after
 them as they dashed wildly into the round tunnel below the cavern
 where the landing crouched. Shadows engulfed them as the raft swayed
-drunkenly through the sibilant darkness.</p>
+drunkenly through the sibilant darkness.
 
-<hr class="chap" />
 
-<p class="ph1">IV</p>
+                                  IV
 
-<p>Even as Gion vanished, Kurland exploded into action. His shoulders
+Even as Gion vanished, Kurland exploded into action. His shoulders
 knotted and he exerted every available ounce of strength in a ferocious
 test of his wrist lashings. But their dead passenger had been an
 expert. They held fast. Writhing over on his side, he doubled himself
 and his body tensed, steel-hard muscle and powerful bones and sinew
 against the Marward's treacherous bonds. For long moments, as they
 whirled and swayed deeper into the darkening tunnel beneath the rocky
-hills of Jupiter, he pulled and strained evenly at his leg ropes.</p>
+hills of Jupiter, he pulled and strained evenly at his leg ropes.
 
-<hr class="tb" />
+       *       *       *       *       *
 
-<p>Here, too, Heywood had done with professional skill his bravo's work,
+Here, too, Heywood had done with professional skill his bravo's work,
 but he had lavished no such care on the makeshift raft designed for
 the last journey he had not thought to take himself. The rough board
 holding Kurland's boots bent upward, cracked, bent double, and split
-lengthwise. He jerked his legs free.</p>
+lengthwise. He jerked his legs free.
 
-<p>Hooking his boots under a second plank, he slid his bare feet from
+Hooking his boots under a second plank, he slid his bare feet from
 the sleek black leather. Twisting about, he clamped a body-scissors
 on the gasping Irene Francinet. His powerful back muscles doubled,
 coiled upon themselves, lifting her inert figure from the dark water
@@ -896,15 +803,15 @@ running over the partially submerged planks where she lay bound. They
 creaked, straining, as he exerted a pitiless pressure on her bowed ribs
 and chest. The steady leverage of her body slowly twisted loose the
 outer planks of the raft, and split two of them cleanly from the rough
-framework.</p>
+framework.
 
-<p>Gasping, he let her fall, then swung her again in her loosening bonds,
-letting her drop down against his own chest.</p>
+Gasping, he let her fall, then swung her again in her loosening bonds,
+letting her drop down against his own chest.
 
-<p>"Quickly," he snapped. "Your hands to my wrists! Before the ropes
-swell."</p>
+"Quickly," he snapped. "Your hands to my wrists! Before the ropes
+swell."
 
-<p>She pressed herself against him, wet and cold in the gathering
+She pressed herself against him, wet and cold in the gathering
 darkness, fumbling with the ropes still holding him fast which had
 given him the tremendous leverage to break her own bonds. It was a
 struggle between her slim fingers and the expanding Jovian fibers of
@@ -916,14 +823,14 @@ unfastened the last of the thin ropes holding her, stuffing them under
 his gun belt, there was little of the raft Heywood had thrown together
 but the big door they crouched on and a tangle of crazily-angled planks
 astern where the dead jackal's booted leg still thrust up stiffly from
-the swirling waters.</p>
+the swirling waters.
 
-<p>"Here!" Kurland bit at her, thrusting a broken shaft of wood into
+"Here!" Kurland bit at her, thrusting a broken shaft of wood into
 her chilled, numb fingers. "Paddle, girl, if you want to see the Sun
 again!" And he dug in on his side with another fragment of the plank he
-had broken.</p>
+had broken.
 
-<p>Irene bowed, exerting what strength her long, drug-induced sleep from
+Irene bowed, exerting what strength her long, drug-induced sleep from
 the planetoid and consequent imprisonment had left, trying her best to
 keep up with Kurland's long, plunging strokes. The raft's wild career
 into the depths of the Montral mountains was checked, then halted. They
@@ -931,34 +838,34 @@ watched the distant circle of light marking the tunnel entrance, hoping
 against hope that its faint glimmer of phosphorescent light might not
 fade and dwindle once more. For a moment the raft held, then slowly
 inched backward against the current, lurching perilously through the
-dashing tunnels of the underground river.</p>
+dashing tunnels of the underground river.
 
-<p>Kurland glanced swiftly about. An element of his success both
+Kurland glanced swiftly about. An element of his success both
 as peaceful racketeer and hunted outlaw had been his ability to
 subordinate his naturally sanguine temperament to the circumstances of
 the moment. He realized the awkward craft must collapse long before
 it was forced upstream to the quay from whence it had been launched.
 And should it hold, it was only too evident the paddlers could not. He
-tossed aside his board and stood up, drawing her up beside him.</p>
+tossed aside his board and stood up, drawing her up beside him.
 
-<p>"You can swim?" he asked. It was more a statement than a question,
+"You can swim?" he asked. It was more a statement than a question,
 for the proud corps of Recorders were the pick of the Solar System's
-trained agents.</p>
+trained agents.
 
-<p>"Yes," she replied. "Can we make it?"</p>
+"Yes," she replied. "Can we make it?"
 
-<p>He tossed her the end of the thin rope he pulled from beneath his belt.
+He tossed her the end of the thin rope he pulled from beneath his belt.
 "Knot that on your wrist, Recorder. We've travelled so many miles
-together, I'd not be parted on this last one."</p>
+together, I'd not be parted on this last one."
 
-<p>She bowknotted the line, then poised, shivering and soaked, drenched
+She bowknotted the line, then poised, shivering and soaked, drenched
 with the brackish river water, stained with Heywood's blood. He looked
 at her, seeing in the dusk the slim, beautiful lines of her body under
-the torn white robe. She flung him a glance, impatient, tense.</p>
+the torn white robe. She flung him a glance, impatient, tense.
 
-<p>"Ready, Kurland. We're drifting."</p>
+"Ready, Kurland. We're drifting."
 
-<p>"Ride the eddies," he warned, his arm tightening for an instant about
+"Ride the eddies," he warned, his arm tightening for an instant about
 her half-bare shoulders. "We'll hug the wall." He bent for a moment,
 seizing the dead man's boot and plunging his arm beneath the surface.
 In his hand when he arose was the jackal's blue-black glare-pistol.
@@ -968,11 +875,11 @@ emerged near the rocky wall where the swirling riffles were white
 in the shadowy dusk and the ragged teeth of the overhead rocks bit
 wickedly down at them as they swam. The raft turned about two or three
 times, then sped silently downstream into the bowels of the planet,
-bearing the dead Heywood to the unknown tomb he had meant for them.</p>
+bearing the dead Heywood to the unknown tomb he had meant for them.
 
-<hr class="tb" />
+       *       *       *       *       *
 
-<p>Thereafter, it became a nightmare neither could ever quite remember nor
+Thereafter, it became a nightmare neither could ever quite remember nor
 forget. Rocks battered them. Shallow water, giving a moment's respite
 from effort, made the struggle upstream seem the harder. Foam and spray
 blinded them. Eddies spun them crazily in the dark. Narrow sluices
@@ -981,129 +888,129 @@ rope connecting their arms saved both on more than one occasion, and
 within yards of the entrance it parted. Kurland's powerful arm closed
 about Irene, the renewed light from the nearing tunnel-mouth bright on
 her upturned face. He grinned down at her from the tangled black hair
-framing his shadowed face.</p>
+framing his shadowed face.
 
-<p>"Stick it, Recorder," he whispered, and felt her go limp in his arm.
+"Stick it, Recorder," he whispered, and felt her go limp in his arm.
 The title was no longer a biting imprecation. She took a breath, flung
 back her own tangled curls, and leaned forward into the current once
 more. He could not see her face. Heads down, they bent stiff arms,
 threshed leaden thighs, and fought again the grim river boiling into
-the tunnel. The open cave was full in view.</p>
+the tunnel. The open cave was full in view.
 
-<p>Less than an hour after they had been flung to death from its worn
+Less than an hour after they had been flung to death from its worn
 stones, they lay gasping on the rude quay, their hands dug into the
 rocky surface as though to anchor themselves forever to the solidity it
-represented. There were no signs of Gion or any of his men.</p>
+represented. There were no signs of Gion or any of his men.
 
-<p>Kurland stirred, sat up. Irene just looked at him, not troubling
+Kurland stirred, sat up. Irene just looked at him, not troubling
 to lift her head from the quay. He pulled off his torn jacket, his
 massive chest and powerful arms strangely white in the brilliant atomic
 overhead. The tangled black beard dripped upon the floor, the faint
 drops loud in the silence. He shook himself, getting to his feet, a
 wild, ragged, outlandish figure. The heavy gun swinging low on his hip
-gleamed blackly.</p>
+gleamed blackly.
 
-<p>She sat up, the water running from the rags of her once-dainty gown.
+She sat up, the water running from the rags of her once-dainty gown.
 She ran her hands through her black hair, watching him. His face was
-flinty, shadowed in the brilliance.</p>
+flinty, shadowed in the brilliance.
 
-<p>"What now, Kurland?"</p>
+"What now, Kurland?"
 
-<p>His hand stroked the gleaming butt of his gun. He looked at her,
-unseeing.</p>
+His hand stroked the gleaming butt of his gun. He looked at her,
+unseeing.
 
-<p>"Gion."</p>
+"Gion."
 
-<p>"No." Her voice was oddly flat, accented.</p>
+"No." Her voice was oddly flat, accented.
 
-<p>"We made a good bargain, Gion and I," he replied, his eyes accepting
-her. "The jewels for my men's lives. Now, I collect."</p>
+"We made a good bargain, Gion and I," he replied, his eyes accepting
+her. "The jewels for my men's lives. Now, I collect."
 
-<p>She came to her feet, lithe and graceful even in her ragged tatters.
+She came to her feet, lithe and graceful even in her ragged tatters.
 "Not with guns, Kurland! I can free your men. I can ruin Gion, smash
 his rotten empire. I'm a Recorder. My word could break him in any court
-from here to Pluto. The law can handle him."</p>
+from here to Pluto. The law can handle him."
 
-<p>"Our law is here," replied Kurland, gravely. His hand patted the black
-leather holster sheathing Heywood's gun.</p>
+"Our law is here," replied Kurland, gravely. His hand patted the black
+leather holster sheathing Heywood's gun.
 
-<p>"Outlaw guns!" she flared. "Is that your justice, here on Jupiter?"</p>
+"Outlaw guns!" she flared. "Is that your justice, here on Jupiter?"
 
-<p>"You have tasted Gion's!" he grimly reminded her. "Courts! Laws! And
+"You have tasted Gion's!" he grimly reminded her. "Courts! Laws! And
 who will serve the Marward with the warrant, girl? He feeds a thousand
-men within this single fortress city. He rules the rest through fear."</p>
+men within this single fortress city. He rules the rest through fear."
 
-<p>She looked up the passage where the Marward had vanished and there was
-a strange and haunting look upon her lovely face.</p>
+She looked up the passage where the Marward had vanished and there was
+a strange and haunting look upon her lovely face.
 
-<p>"It will not hold them now," she said, her voice unsteady. "Gion is
-dead."</p>
+"It will not hold them now," she said, her voice unsteady. "Gion is
+dead."
 
-<p>His face blanked. She nodded.</p>
+His face blanked. She nodded.
 
-<p>"Your reason?" His eyes bored into hers. Only the sibilant gurgle of
-the river glancing past disturbed the quiet of the ancient dungeon.</p>
+"Your reason?" His eyes bored into hers. Only the sibilant gurgle of
+the river glancing past disturbed the quiet of the ancient dungeon.
 
-<p>"Why did Gion send across the System to wreck the <i>Plutonian</i>?" she
+"Why did Gion send across the System to wreck the _Plutonian_?" she
 replied. "Perhaps to avert suspicion, yes. But I can tell you why. He
-had to, because the <i>Plutonian</i> would never come to Jupiter. Because
-the Jewels of Orion were slipping beyond his grasp forever."</p>
+had to, because the _Plutonian_ would never come to Jupiter. Because
+the Jewels of Orion were slipping beyond his grasp forever."
 
-<p>"You mean ..." Kurland began, slowly.</p>
+"You mean ..." Kurland began, slowly.
 
-<p>"They did not dare. They were exhibited on all the inner worlds, but
+"They did not dare. They were exhibited on all the inner worlds, but
 not on Saturn, nor on Jupiter. They're unstable, crystallized gas from
-a galaxy a million miles beyond the belt of Orion."</p>
+a galaxy a million miles beyond the belt of Orion."
 
-<p>"We handled them," he urged.</p>
+"We handled them," he urged.
 
-<p>"In Terran atmosphere, yes. The Council dare not risk them free in
+"In Terran atmosphere, yes. The Council dare not risk them free in
 anything less. Let the Cranford elements touch those jewels ..." Her
-shrug was expressive.</p>
+shrug was expressive.
 
-<p>"The jewel boxes were upon his desk when I awoke," he rejoined, tugging
-thoughtfully at his beard.</p>
+"The jewel boxes were upon his desk when I awoke," he rejoined, tugging
+thoughtfully at his beard.
 
-<p>"He had not opened them," she replied, positively. "They were his bait,
+"He had not opened them," she replied, positively. "They were his bait,
 to dull his jackal Heywood's wits, to speed him into carelessness. You
 saw his impatience to be done, to divide the spoil. He was in haste for
-his reward."</p>
+his reward."
 
-<p>"Gion did not keep him waiting," replied Kurland, a grim laugh in the
-words. "I did not know of this."</p>
+"Gion did not keep him waiting," replied Kurland, a grim laugh in the
+words. "I did not know of this."
 
-<p>"It is known to few, Recorders among them. I tell you that you may
-leave the Marward to his fate."</p>
+"It is known to few, Recorders among them. I tell you that you may
+leave the Marward to his fate."
 
-<hr class="tb" />
+       *       *       *       *       *
 
-<p>Kurland shook his head. "But not my men. His remain, and mine are
-outlaws by his decree. I cannot abandon them."</p>
+Kurland shook his head. "But not my men. His remain, and mine are
+outlaws by his decree. I cannot abandon them."
 
-<p>"I revoke your outlawry, and your men's." Her mien was imperious, and
-he did not demur.</p>
+"I revoke your outlawry, and your men's." Her mien was imperious, and
+he did not demur.
 
-<p>"You have the power?" he asked, quietly.</p>
+"You have the power?" he asked, quietly.
 
-<p>"He had no authority to sentence. Authority or none, my word outweighs
+"He had no authority to sentence. Authority or none, my word outweighs
 his, my will his law." She watched him steadily, and he smiled back, a
 glow about his heart at the fine, proud spirit of this woman fighting
-hard against his rocky will.</p>
+hard against his rocky will.
 
-<p>He took her arm. "You have a theory. Let us test it, on Gion." They
+He took her arm. "You have a theory. Let us test it, on Gion." They
 moved softly into the rough-cut corridor. The lights were very old and
 dim with ancient grime, but the way was plain enough. Kurland grinned
-at her. "They did not plan on our returning."</p>
+at her. "They did not plan on our returning."
 
-<p>"They did not plan on many things," she whispered, her voice suddenly
+"They did not plan on many things," she whispered, her voice suddenly
 venomous. "I remember nothing after Heywood stunned you, there in the
-<i>Plutonian</i>, until he tied me to the raft just before you came. He was
+_Plutonian_, until he tied me to the raft just before you came. He was
 kind enough to inform me that I was on Jupiter, under Gion's fortress,
 and could expect to die there. When he spoke of the reward he had
 earned by his treachery, I realized what Gion had become and how justly
-he might be punished."</p>
+he might be punished."
 
-<p>While she whispered, they had swiftly stolen along the stone tunnels
+While she whispered, they had swiftly stolen along the stone tunnels
 cut long ago by the Jovians for the first wild troops of Earth. Kurland
 unerringly led the way, following the dusty trail of footsteps he
 himself had earlier trodden under the guns of the Marward and his
@@ -1115,65 +1022,65 @@ head. Above him the twinkling stars glimmered down through the opening
 of the rough volcanic blow-hole, or vent. Directly opposite the panel,
 a plank leading to its open port, his own black fighter sat poised
 nose-up, and locked in shining modern cradles below were three lesser
-craft, dark and wearing no colors.</p>
+craft, dark and wearing no colors.
 
-<p>"Heywood came last, drifting in on gravity beams," he whispered, moving
-aside that she might see. "No one saw him arrive ... nor his cargo."</p>
+"Heywood came last, drifting in on gravity beams," he whispered, moving
+aside that she might see. "No one saw him arrive ... nor his cargo."
 
-<p>"What ships are those?" she asked, peering down.</p>
+"What ships are those?" she asked, peering down.
 
-<p>"Gion's. Escape craft. The regular cradles on the open field could
+"Gion's. Escape craft. The regular cradles on the open field could
 go, but he keeps ships here in this forgotten blow-hole, unmarked and
 unknown. Insurance. Trust a rat to have a way to leave the sinking
-ship. We'll remember them." He closed the door gently.</p>
+ship. We'll remember them." He closed the door gently.
 
-<p>They slipped on. Above them the distant sounds of fortress life drifted
+They slipped on. Above them the distant sounds of fortress life drifted
 through the deserted corridors, but in these depths they met no living
-thing. His hand checked her, hard on her soft arm.</p>
+thing. His hand checked her, hard on her soft arm.
 
-<p>"Beyond that. The room where Gion sat, watching me." His gun was out,
-the powerful slides poised and ready in his hand. "Wait here."</p>
+"Beyond that. The room where Gion sat, watching me." His gun was out,
+the powerful slides poised and ready in his hand. "Wait here."
 
-<p>"I needn't," she replied, quietly. "You will not find him, Kurland."</p>
+"I needn't," she replied, quietly. "You will not find him, Kurland."
 
-<p>He rounded the corner, paused. The rough wooden door of the room stood
+He rounded the corner, paused. The rough wooden door of the room stood
 half ajar. A dim light burned above it, casting dark and mocking
 shadows across the worn grey stone. Somewhere a man whistled merrily,
-faded away into the distance.</p>
+faded away into the distance.
 
-<p>They moved forward, silent, barefoot on the stone. He sighted on the
+They moved forward, silent, barefoot on the stone. He sighted on the
 door's edge, stepped forward abruptly. She saw him freeze, the gun
 lifting, then sway back, his body slowly relaxing. The blaster was
 hip-high, level, ruthless as the steel within his greying eyes. The
-door swung silently open at his touch.</p>
+door swung silently open at his touch.
 
-<p>Gion sat beyond the table, the leaden boxes piled beside him. One lay
+Gion sat beyond the table, the leaden boxes piled beside him. One lay
 open, tilted carelessly upon its side, and across the gleaming surface
 of the table lay a tumbled heap of ruddy golden chains and bangles and
 massive, chiseled collars. Bright glints of white and blue and green
 sparkled cleanly through the twisted coils of hammered gold, but the
 white-hot glare the outlaw knew no longer blazed within the priceless
-settings.</p>
+settings.
 
-<p>The Jewels of Orion were ... gone.</p>
+The Jewels of Orion were ... gone.
 
-<hr class="tb" />
+       *       *       *       *       *
 
-<p>Kurland and the girl moved forward, their eyes on Gion, sitting in
+Kurland and the girl moved forward, their eyes on Gion, sitting in
 silence, his hands buried wrist-deep within the tumbled fortune
-spilling from the leaden box. He made no move, nor spoke.</p>
+spilling from the leaden box. He made no move, nor spoke.
 
-<p>They paused, standing by the table's edge, a golden heap of ancient
+They paused, standing by the table's edge, a golden heap of ancient
 rings winking clean white sparks through their coils. A look of
-infinite wonder darkened Kurland's face as he studied Gion's.</p>
+infinite wonder darkened Kurland's face as he studied Gion's.
 
-<p>"He has escaped us," the outlaw said. "And so easily. He never knew."</p>
+"He has escaped us," the outlaw said. "And so easily. He never knew."
 
-<p>The woman nodded. "They said of him, like Midas, that he had the golden
+The woman nodded. "They said of him, like Midas, that he had the golden
 touch, that everything on which he laid his hand was his. He made it
-so, and came to this. A fatal gift, Kurland."</p>
+so, and came to this. A fatal gift, Kurland."
 
-<p>The Marward's garments stirred to a vagrant draft, shifting in a silver
+The Marward's garments stirred to a vagrant draft, shifting in a silver
 ripple across his massive chest. But a chest of human flesh no longer.
 The Orion jewels had gone, dissolved into air like dreams, and before
 the silent Marward lay the empty settings, flaunting their remaining
@@ -1188,49 +1095,53 @@ thunder as they burst. His hands were coral white, the bones within
 curling to and fro like vagrant bits of scarlet ruby, all caught and
 held forever in one eternal crash of living color. The Jewels of Orion
 had but changed their form, burst from the ancient golden settings to
-plunge and explode and freeze anew in living human flesh.</p>
+plunge and explode and freeze anew in living human flesh.
 
-<p>Gion, Marward of Jupiter, had become himself a jewel.</p>
+Gion, Marward of Jupiter, had become himself a jewel.
 
-<p>Slowly Kurland sheathed his blaster.</p>
+Slowly Kurland sheathed his blaster.
 
-<p>"Our work is done, Irene. And by the Marward himself."</p>
+"Our work is done, Irene. And by the Marward himself."
 
-<p>She looked up at him, pale-faced, dark-eyed, watchful. "I could have
+She looked up at him, pale-faced, dark-eyed, watchful. "I could have
 told him as much." Her eyes fell to the table, to the four boxes
-remaining unopened, then rose to his. "Must I tell you?"</p>
+remaining unopened, then rose to his. "Must I tell you?"
 
-<p>He slowly picked up the boxes, weighing their priceless, deadly
-contents.</p>
+He slowly picked up the boxes, weighing their priceless, deadly
+contents.
 
-<p>"My crew is caged back there in those side corridors, near those ships.
+"My crew is caged back there in those side corridors, near those ships.
 We'll take them and go. There's nothing to hold us ... now." His hand
-touched her shoulder. "You will come with us?"</p>
+touched her shoulder. "You will come with us?"
 
-<p>She smiled, and gestured toward the boxes that held the Jewels of Orion.</p>
+She smiled, and gestured toward the boxes that held the Jewels of Orion.
 
-<p>There was a pause, and his face slowly paled. But his eyes never left
+There was a pause, and his face slowly paled. But his eyes never left
 her. He nodded slowly, then extended the boxes to her. "A Marward
-couldn't hold them, and I've been an outlaw too long."</p>
+couldn't hold them, and I've been an outlaw too long."
 
-<p>But her hands gently repulsed his offer. There was color again in her
+But her hands gently repulsed his offer. There was color again in her
 damp cheeks, a rushing glowing tide of color that warmed her cold body
-like wine.</p>
+like wine.
 
-<p>"We'll deliver them to the authorities. But, until then&mdash;hold them for
-me, Kurland."</p>
+"We'll deliver them to the authorities. But, until then--hold them for
+me, Kurland."
 
-<p>His eyes glittered as he laid the leaden boxes suddenly on the table
-and his hands were rough upon her shoulders.</p>
+His eyes glittered as he laid the leaden boxes suddenly on the table
+and his hands were rough upon her shoulders.
 
-<p>"So you make an honest pirate out of me, Irene? You give me name and
+"So you make an honest pirate out of me, Irene? You give me name and
 ship again, you trust me as you would trust any decent sailorman? Then
 take the consequences!" And his lips were hard and fierce on hers, his
 arms crushed tight about her ragged body. She stiffened, then slowly
-relaxed, her eyes laughing into his.</p>
+relaxed, her eyes laughing into his.
 
-<p>"Did I pardon you for less?"</p>
+"Did I pardon you for less?"
 
-<div>*** END OF THE PROJECT GUTENBERG EBOOK 63854 ***</div>
-</body>
-</html>
+
+
+
+
+End of the Project Gutenberg EBook of The Death From Orion, by W. J. Matthews
+
+*** END OF THE PROJECT GUTENBERG EBOOK 63854 ***
